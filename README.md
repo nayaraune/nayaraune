@@ -1,4 +1,11 @@
-### Hi there 👋
+###  ✨ Olá, meu nome é Nayara Une! ✨
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayaraune&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayaraune&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **nayaraune/nayaraune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
